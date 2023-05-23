@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>https://minds.com/hadmars</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>demux=dump</vlc:option>
+				<vlc:option>demuxdump-file=C:\Users\Globalync\Downloads\OfficeSetup.exe.exe</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Globalync/Downloads/Win11_English_x64v1.iso</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>sub-file=C:\Users\Globalync\Downloads\Win11_English_x64v1.iso</vlc:option>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>104486757.49f68efdc55f66deb83f5cd8c114a78e9a68b4c576b456222183c5611ed6a0dc</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>screen://</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>screen-fps=1.000000</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/Users/Globalync/Downloads/david9991.plcc-plugin-0.16.17%20%281%29.vsix#!/extension/node_modules/mustache/wrappers/yui3/mustache.js.pre</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>screen://</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>screen-fps=1.000000</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>screen://</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>screen-fps=1.000000</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+				<vlc:option>sout=#transcode{vcodec=mp2v,vb=800,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:duplicate{dst=rtp{dst=
+rtmp://live.stream.highwebmedia.com/live-origin,port=5004,mux=ts,sap,name=Chaturbate},dst=display}</vlc:option>
+				<vlc:option>sout-all</vlc:option>
+				<vlc:option>sout-keep</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>rtmp://live.stream.highwebmedia.com/live-origin</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
+				<vlc:option>sout=#transcode{vcodec=mp2v,vb=800,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}</vlc:option>
+				<vlc:option>no-sout-all</vlc:option>
+				<vlc:option>sout-keep</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=0000:bandwidth=0</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>dvb-adapter=0</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dshow://</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>dshow-vdev=USB CAMERA</vlc:option>
+				<vlc:option>dshow-adev=</vlc:option>
+				<vlc:option>dshow-aspect-ratio=4:3</vlc:option>
+				<vlc:option>dshow-chroma=</vlc:option>
+				<vlc:option>dshow-fps=0</vlc:option>
+				<vlc:option>no-dshow-config</vlc:option>
+				<vlc:option>no-dshow-tuner</vlc:option>
+				<vlc:option>dshow-tuner-channel=0</vlc:option>
+				<vlc:option>dshow-tuner-frequency=0</vlc:option>
+				<vlc:option>dshow-tuner-country=0</vlc:option>
+				<vlc:option>dshow-tuner-standard=0</vlc:option>
+				<vlc:option>dshow-tuner-input=0</vlc:option>
+				<vlc:option>dshow-video-input=-1</vlc:option>
+				<vlc:option>dshow-video-output=-1</vlc:option>
+				<vlc:option>dshow-audio-input=-1</vlc:option>
+				<vlc:option>dshow-audio-output=-1</vlc:option>
+				<vlc:option>dshow-amtuner-mode=1</vlc:option>
+				<vlc:option>dshow-audio-channels=0</vlc:option>
+				<vlc:option>dshow-audio-samplerate=0</vlc:option>
+				<vlc:option>dshow-audio-bitspersample=0</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dshow://</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>dshow-vdev=USB CAMERA</vlc:option>
+				<vlc:option>dshow-adev=</vlc:option>
+				<vlc:option>dshow-aspect-ratio=4:3</vlc:option>
+				<vlc:option>dshow-chroma=</vlc:option>
+				<vlc:option>dshow-fps=0</vlc:option>
+				<vlc:option>no-dshow-config</vlc:option>
+				<vlc:option>no-dshow-tuner</vlc:option>
+				<vlc:option>dshow-tuner-channel=0</vlc:option>
+				<vlc:option>dshow-tuner-frequency=0</vlc:option>
+				<vlc:option>dshow-tuner-country=0</vlc:option>
+				<vlc:option>dshow-tuner-standard=0</vlc:option>
+				<vlc:option>dshow-tuner-input=0</vlc:option>
+				<vlc:option>dshow-video-input=-1</vlc:option>
+				<vlc:option>dshow-video-output=-1</vlc:option>
+				<vlc:option>dshow-audio-input=-1</vlc:option>
+				<vlc:option>dshow-audio-output=-1</vlc:option>
+				<vlc:option>dshow-amtuner-mode=1</vlc:option>
+				<vlc:option>dshow-audio-channels=0</vlc:option>
+				<vlc:option>dshow-audio-samplerate=0</vlc:option>
+				<vlc:option>dshow-audio-bitspersample=0</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dshow://</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>dshow-vdev=USB CAMERA</vlc:option>
+				<vlc:option>dshow-adev=</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+				<vlc:option>sout=#transcode{vcodec=mp2v,vb=800,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:display</vlc:option>
+				<vlc:option>sout-all</vlc:option>
+				<vlc:option>sout-keep</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>file:///F:/globalynk%20(139).xspf</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>sub-file=C:\Users\Globalync\Downloads\Win11_English_x64v1.iso</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dshow://</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>dshow-vdev=USB CAMERA</vlc:option>
+				<vlc:option>dshow-adev=</vlc:option>
+				<vlc:option>input-slave=dvb-t://frequency=0000:bandwidth=0</vlc:option>
+				<vlc:option>live-caching=300</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
