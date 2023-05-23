@@ -1,2 +1,4 @@
-# Globalynk-1
-Links
+# Globalynk
+Link sync share merge connect.
+https://globalync.net
+Globalync
