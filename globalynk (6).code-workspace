@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"path": "..\\OneDrive\\Globalynk-1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.autoSave": "afterDelay",
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "Connection SQL",
+				"group": "Group 1",
+				"database": "Database 11",
+				"username": "hadmars",
+				"connectionTimeout": 60
+			},
+			{
+				"namespace": "USER",
+				"connectionMethod": "Server and Port",
+				"showSystem": true,
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 52773,
+				"askForPassword": false,
+				"driver": "InterSystems IRIS",
+				"name": "Connection Iris",
+				"group": "Group 1",
+				"username": "hadmars",
+				"password": "Jaknight1,"
+			}
+		],
+		"debug.allowBreakpointsEverywhere": true,
+		"files.autoGuessEncoding": true,
+		"files.exclude": {
+			"**/.vscode": true,
+			"compile_commands.json": true,
+			"*.hrccproj": true,
+			"*.sln": true,
+			"*.suo": true
+		},
+		"totvsLanguageServer.welcomePage": false,
+		"compile-hero.disable-compile-files-on-did-save-code": false
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Rails server",
+				"type": "Ruby",
+				"request": "launch",
+				"program": "${workspaceRoot}/bin/rails",
+				"args": [
+					"server"
+				]
+			}
+		]
+	}
+}
