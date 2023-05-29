@@ -1,0 +1,223 @@
+{
+	"folders": [
+		{
+			"path": "Program Files (x86)\\Actipro Software"
+		},
+		{
+			"path": "Program Files (x86)\\Adobe"
+		},
+		{
+			"path": "Program Files (x86)\\Apple Software Update"
+		},
+		{
+			"path": "Program Files (x86)\\AVG"
+		},
+		{
+			"path": "Program Files (x86)\\Bonjour"
+		},
+		{
+			"path": "Program Files (x86)\\Cliqz"
+		},
+		{
+			"path": "Program Files (x86)\\Cliqz Maintenance Service"
+		},
+		{
+			"path": "Program Files (x86)\\Common Files"
+		},
+		{
+			"path": "Program Files (x86)\\Dashlane"
+		},
+		{
+			"path": "Program Files (x86)\\Dropbox"
+		},
+		{
+			"path": "Program Files (x86)\\Epic Games"
+		},
+		{
+			"path": "Program Files (x86)\\Evernote"
+		},
+		{
+			"path": "Program Files (x86)\\Google"
+		},
+		{
+			"path": "Program Files (x86)\\GtkSharp"
+		},
+		{
+			"path": "Program Files (x86)\\Intel"
+		},
+		{
+			"path": "Program Files (x86)\\Internet Explorer"
+		},
+		{
+			"path": "Program Files (x86)\\K-Lite Codec Pack"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft Help Viewer"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft Office"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft SDKs"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft SQL Server"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft Visual Studio"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft Visual Studio 14.0"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft Visual Studio Tools for Unity"
+		},
+		{
+			"path": "Program Files (x86)\\Microsoft.NET"
+		},
+		{
+			"path": "Program Files (x86)\\Mozilla Maintenance Service"
+		},
+		{
+			"path": "Program Files (x86)\\MSBuild"
+		},
+		{
+			"path": "Program Files (x86)\\New Relic"
+		},
+		{
+			"path": "Program Files (x86)\\NortonInstaller"
+		},
+		{
+			"path": "Program Files (x86)\\obs-studio"
+		},
+		{
+			"path": "Program Files (x86)\\Red Gate"
+		},
+		{
+			"path": "Program Files (x86)\\Reference Assemblies"
+		},
+		{
+			"path": "Program Files (x86)\\Skype"
+		},
+		{
+			"path": "Program Files (x86)\\SplitmediaLabs"
+		},
+		{
+			"path": "Program Files (x86)\\Starfield"
+		},
+		{
+			"path": "Program Files (x86)\\Vodafone"
+		},
+		{
+			"path": "Program Files (x86)\\Windows Defender"
+		},
+		{
+			"path": "Program Files (x86)\\Windows Kits"
+		},
+		{
+			"path": "Program Files (x86)\\Windows Mail"
+		},
+		{
+			"path": "Program Files (x86)\\Windows Media Player"
+		},
+		{
+			"path": "Program Files (x86)\\Windows Multimedia Platform"
+		},
+		{
+			"path": "Program Files (x86)\\Windows NT"
+		},
+		{
+			"path": "Program Files (x86)\\Windows Photo Viewer"
+		},
+		{
+			"path": "Program Files (x86)\\Windows Portable Devices"
+		},
+		{
+			"path": "Program Files (x86)\\WindowsPowerShell"
+		},
+		{
+			"path": "Program Files (x86)\\WordPress.com"
+		},
+		{
+			"path": "D:\\_internal"
+		},
+		{
+			"path": "D:\\Assets"
+		},
+		{
+			"path": "D:\\globalynk (1).vs"
+		},
+		{
+			"path": "D:\\globalynk (2)"
+		},
+		{
+			"path": "D:\\globalynk (3)"
+		},
+		{
+			"path": "D:\\globalynk (4)"
+		},
+		{
+			"path": "D:\\globalynk (5)"
+		},
+		{
+			"path": "D:\\globalynk (6)"
+		},
+		{
+			"path": "D:\\globalynk (7)"
+		},
+		{
+			"path": "D:\\globalynk (8)"
+		},
+		{
+			"path": "D:\\globalynk (9)"
+		},
+		{
+			"path": "D:\\globalynk (10)"
+		},
+		{
+			"path": "D:\\globalynk (11)"
+		},
+		{
+			"path": "I:\\globalynk (1).vs"
+		},
+		{
+			"path": "I:\\globalynk (2).search-ms"
+		},
+		{
+			"path": "I:\\globalynk (7)"
+		},
+		{
+			"path": "I:\\globalynk (2)"
+		},
+		{
+			"path": "I:\\globalynk (8)"
+		},
+		{
+			"path": "I:\\globalynk (3)"
+		},
+		{
+			"path": "I:\\globalynk (9)"
+		},
+		{
+			"path": "I:\\globalynk (4)"
+		},
+		{
+			"path": "I:\\globalynk (10)"
+		},
+		{
+			"path": "I:\\globalynk (5)"
+		},
+		{
+			"path": "I:\\globalynk (11)"
+		},
+		{
+			"path": "I:\\globalynk (6)"
+		},
+		{
+			"path": "I:\\globalynk (1).search-ms"
+		}
+	],
+	"settings": {
+		"dotnet.help.firstView": "gettingStarted"
+	}
+}

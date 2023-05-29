@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "..\\OneDrive\\Globalynk-1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.autoSave": "afterDelay",
+		"sqltools.connections": [
+			{
+				"namespace": "USER",
+				"connectionMethod": "Server and Port",
+				"showSystem": true,
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 52773,
+				"askForPassword": false,
+				"driver": "InterSystems IRIS",
+				"name": "Connection Iris",
+				"group": "Group 1",
+				"username": "hadmars",
+				"password": "Jaknight1,"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "Connection SQL",
+				"group": "Group 1",
+				"database": "Database 11",
+				"username": "hadmars",
+				"connectionTimeout": 60
+			}
+		]
+	}
+}
