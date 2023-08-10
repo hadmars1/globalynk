@@ -1,0 +1,83 @@
+CorrelationId: a0837d28-9e74-4652-ad7d-13130a080329
+UTC DateTime: 8/18/2020 11:38:26 PM
+
+The following files/folders have not been downloaded
+1. globalynk  (11)/.metadata/.plugins/org.eclipse.cdt.managedbuilder.core/spec.c
+2. globalynk  (11)/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq
+3. globalynk  (11)/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock
+4. globalynk  (11)/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.frq
+5. globalynk  (11)/.metadata/.plugins/org.eclipse.rse.core/.log
+6. globalynk  (11)/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+7. globalynk  (11)/.metadata/.plugins/org.eclipse.rse.ui/.log
+8. globalynk  (2)/globalynk/.metadata/.plugins/org.eclipse.cdt.managedbuilder.core/spec.c
+9. globalynk  (2)/globalynk/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq
+10. globalynk  (2)/globalynk/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock
+11. globalynk  (2)/globalynk/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.frq
+12. globalynk  (2)/globalynk/.metadata/.plugins/org.eclipse.rse.core/.log
+13. globalynk  (2)/globalynk/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+14. globalynk  (2)/globalynk/.metadata/.plugins/org.eclipse.rse.ui/.log
+15. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/pip/_internal/operations/__init__.py
+16. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/pip/_internal/utils/__init__.py
+17. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py
+18. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/urllib3/contrib/__init__.py
+19. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py
+20. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py
+21. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/pkg_resources/_vendor/__init__.py
+22. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/setuptools/_vendor/__init__.py
+23. globalynk  (2).Smo/Globalynk Server (3)/Lib/site-packages/wheel/cli/install.py
+24. globalynk  (9)/.metadata/.plugins/org.eclipse.cdt.managedbuilder.core/spec.c
+25. globalynk  (1)/Globalynk
+26. globalynk  (4)/globalynk  (10)/Globalynk (2)/globalynk/.metadata/.plugins/org.eclipse.cdt.managedbuilder.core/spec.c
+27. globalynk  (4)/globalynk  (10)/Globalynk (2)/globalynk/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq
+28. globalynk  (4)/globalynk  (10)/Globalynk (2)/globalynk/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock
+29. globalynk  (4)/globalynk  (10)/Globalynk (2)/globalynk/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.frq
+30. globalynk  (4)/globalynk  (10)/Globalynk (2)/globalynk/.metadata/.plugins/org.eclipse.rse.core/.log
+31. globalynk  (4)/globalynk  (10)/Globalynk (2)/globalynk/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
+32. globalynk  (4)/globalynk  (10)/Globalynk (2)/globalynk/.metadata/.plugins/org.eclipse.rse.ui/.log
+33. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/pip/_internal/operations/__init__.py
+34. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/pip/_internal/utils/__init__.py
+35. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py
+36. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/urllib3/contrib/__init__.py
+37. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py
+38. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py
+39. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/pkg_resources/_vendor/__init__.py
+40. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/setuptools/_vendor/__init__.py
+41. globalynk  (4)/globalynk  (10)/Globalynk (3).Smo/Globalynk Server (3)/Lib/site-packages/wheel/cli/install.py
+42. globalynk  (4)/globalynk  (10)/Globalynk (4)/Globalynk
+43. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalync/Globalynk/ConsoleApp1/.vs/ConsoleApp1/v15/Server/sqlite3/db.lock
+44. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalync/Globalynk/ConsoleApp1/ConsoleApp1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+45. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalync/Globalynk/ConsoleApp1/ConsoleApp1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+46. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalync/Globalynk/ConsoleApp1/ConsoleApp1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+47. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/Globalynk/Globalynk/G/.git/FETCH_HEAD
+48. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/Globalynk/Globalynk/G
+49. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/Globalynk/Globalynk/ProjectSettings
+50. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/Globalynk/Globalynk/SampleWebApplication
+51. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/Globalynk 2
+52. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/Library
+53. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/Music
+54. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/ProjectSettings
+55. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Glk-2/SampleWebApplication
+56. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Globalynk
+57. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Globalynk (2).0
+58. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Globalynk (3).0
+59. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Globalynk (4).0
+60. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Globalynk (5).0
+61. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/Library
+62. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/Globalynk/ProjectSettings
+63. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/samples
+64. globalynk  (4)/globalynk  (10)/Globalynk (6)/Globalynk.0/scripts
+65. globalynk  (4)/globalynk  (10)/Globalynk (6)/obj
+66. globalynk  (4)/globalynk  (10)/Globalynk (6)/venv
+67. globalynk  (4)/globalynk  (10)/Globalynk (6).vs
+68. globalynk  (4)/globalynk  (10)/Globalynk (7)
+69. globalynk  (4)/globalynk  (10)/Globalynk (8)
+70. globalynk  (4)/globalynk  (10)/Globalynk (9)
+71. globalynk  (4)/Globalynk-master
+72. globalynk  (5)
+73. globalynk  (4).vs
+74. globalynk  (3).vs
+75. globalynk  (7)
+76. globalynk  (8)
+77. globalynk  (3)
+78. globalynk  (1).vs
+79. globalynk  (10)

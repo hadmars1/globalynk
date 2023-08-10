@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        "ms-vscode.azure-account",
+        "medniy2.aldl-commodore-software-download-extra-quality",
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.cpptools-themes",
+        "gep13.chocolatey-vscode",
+        "ms-vscode.cmake-tools",
+        "vadimcn.vscode-lldb",
+        "arcanis.vscode-zipfs",
+        "redhat.vscode-yaml",
+        "sswg.swift-lang",
+        "trunk.io",
+        "viscodeust.v1scode",
+        "unoplatform.vscode",
+        "ms-vscode.theme-tomorrowkit",
+        "ms-vscode.test-adapter-converter",
+        "donjayamanne.python-environment-manager",
+        "arianjamasb.protein-viewer",
+        "ritwickdey.liveserver",
+        "esbenp.prettier-vscode"
+    ]
+}
