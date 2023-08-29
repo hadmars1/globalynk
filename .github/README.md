@@ -1,2 +1,2 @@
-# Globalynk-1
-Links
+# Globalynk-V1.0.0
+Link sync share merge connect.
